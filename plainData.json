@@ -122,9 +122,9 @@
     "name": "capabilities",
     "title": "Please check which of the following capabilities apply to your system.",
     "value": [
-      "**Risk assessment**: Analyzing very large data sets to identify patterns and recommend courses of action and in some cases trigger specific actions"
+      "**Risk assessment**: Analyzing very large datasets to identify patterns and recommend courses of action and in some cases trigger specific actions"
     ],
-    "displayValue": "<strong>Risk assessment</strong>: Analyzing very large data sets to identify patterns and recommend courses of action and in some cases trigger specific actions",
+    "displayValue": "<strong>Risk assessment</strong>: Analyzing very large datasets to identify patterns and recommend courses of action and in some cases trigger specific actions",
     "isNode": true,
     "getString": {
       "_custom": {
@@ -136,8 +136,8 @@
       {
         "name": "0",
         "title": "",
-        "value": "**Risk assessment**: Analyzing very large data sets to identify patterns and recommend courses of action and in some cases trigger specific actions",
-        "displayValue": "<strong>Risk assessment</strong>: Analyzing very large data sets to identify patterns and recommend courses of action and in some cases trigger specific actions",
+        "value": "**Risk assessment**: Analyzing very large datasets to identify patterns and recommend courses of action and in some cases trigger specific actions",
+        "displayValue": "<strong>Risk assessment</strong>: Analyzing very large datasets to identify patterns and recommend courses of action and in some cases trigger specific actions",
         "getString": {
           "_custom": {
             "type": "function",
